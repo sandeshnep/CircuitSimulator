@@ -1,0 +1,1 @@
+gcc main.c Circuit.c Circuit.h Gates.c Gates.h Value.c Value.h -o RunMe
