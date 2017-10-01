@@ -1,5 +1,3 @@
-CSC 173 
-Project 5
 Sandesh Paudel 
 Collaborators: None
 
